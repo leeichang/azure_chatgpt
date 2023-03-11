@@ -40,18 +40,21 @@ A:To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge,
   https://chrome.google.com/webstore/detail/glarity-summary-for-googl/cmnlolelipjlhfkhpohphpedmkfbobjc
   
   1. Azure Open AI in Bot Framework 
+  
   https://www.youtube.com/watch?v=1MqpdFGUYxc
   
   本影片介紹了如何在 Azure 的 Bot composer 應用程式中整合 Azure Open AI。首先介紹了 Azure Open AI 的概述與其提供的三種模組，其中焦點放在目前非常知名的 GPT-3 模型上。但要使用此模型需先申請授權及付費，影片中也介紹了詳細的授權申請流程，及如何在 Azure Cognitive Service 建立該服務的資源。接著示範了如何使用 GPT-3 模型在 Bot 應用程式中提供自然語言處理相關的功能。
   
   
   2. ChatGPT & OpenAI powering your apps | OpenAI Studio in Microsoft Azure
+  
   https://www.youtube.com/watch?v=3t3qZu1Dy1k
     
   Azure的OpenAI服務可以利用在Azure中基於自然語言和程式碼的深度理解，提供大規模生成式AI模型，以協助開發者建構新的應用程式。透過Azure OpenAI Studio進行實驗和測試模型，然後將其引入你的程式碼中，提供差異化的應用體驗，同時擁有Azure的企業級安全。模型具有為應用程式提供自然語言體驗的能力，如GPT-3和Codex。Azure OpenAI還具備支持負責任AI的工具，例如對內容進行篩選，以檢測和減輕有害用途。模型通常使用文字作為交互方式，建立好提示後可以直接在模型上進行零/幾次訓練即可。OpenAI可用於創建許多新體驗，例如將應用程式的整個界面轉換為自然語言交互，還可以在應用程式中使用自然語言命令，如操作Minecraft。  
     
     
   3. Exploring Chat GPT-3 via Microsoft Azure Open AI Studio
+  
   https://www.youtube.com/watch?v=tu7qZ8W-HEQ
 
 本影片介紹了如何在Microsoft Azure Open AI Studio中探索Chat GPT-3服務。Chat GPT-3是一款基於人工智慧的聊天機器人，可以根據輸入的文本生成類似人類的回答。Azure Open AI Studio提供了GPT3基於系列，Codex系列和嵌入系列三種模型，GPT3系列可以用於對話模型，生成模型，文本摘要和語言預測等。欲使用此服務需填寫申請表格，並等待Microsoft的電子郵件確認訪問權限。本篇主要介紹如何在Azure Open AI Studio中使用Chat GPT-3 Playground來嘗試和測試自己的應用。
