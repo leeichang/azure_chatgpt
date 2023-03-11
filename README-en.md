@@ -1,3 +1,5 @@
+[English Version](./README_en.md) ｜[中文版](./README.md)
+
 # azure_chatgpt
 
 I want to use chatgpt to help with software development! So there is a ditch thinking about this project! So how to import personal and company information into chatgpt to train your own chat robot to make the target of this process!
