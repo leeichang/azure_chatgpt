@@ -33,3 +33,26 @@ A: To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge
   8.Deploy your chatbot. Once you are satisfied with your chatbot's performance, you can deploy it to your website or other channels using the Azure OpenAI ChatGPT service's deployment tools.
 
   9.Monitor and improve your chatbot. As your chatbot interacts with customers, you may receive feedback or identify areas for improvement. Continuously monitor and improve your chatbot to ensure it is providing the best possible experience for your customers.
+  
+  ## Google
+  found three youtube vedios
+    Use 『Glarity-Summary for Google/YouTube (ChatGPT) 』to generate a summary before deciding whether to watch the video content carefully
+    https://chrome.google.com/webstore/detail/glarity-summary-for-googl/cmnlolelipjlhfkhpohphpedmkfbobjc
+  #### found three youtube vedios
+  found three youtube vedios
+  1. Azure Open AI in Bot Framework 
+    https://www.youtube.com/watch?v=1MqpdFGUYxc
+  
+  This video shows how to integrate Azure Open AI in a Bot composer application in Azure. First, an overview of Azure Open AI and the three modules it provides are introduced, with the focus on the currently well-known GPT-3 model. However, to use this model, you need to apply for authorization and pay first. The video also introduces the detailed authorization application process and how to create resources for this service in Azure Cognitive Service. Then it demonstrates how to use the GPT-3 model to provide natural language processing related functions in Bot applications.
+  
+  
+  2. ChatGPT & OpenAI powering your apps | OpenAI Studio in Microsoft Azure
+    https://www.youtube.com/watch?v=3t3qZu1Dy1k
+    
+   Azure's OpenAI service can leverage deep understanding of natural language and code in Azure to provide large-scale generative AI models to help developers build new applications. Experiment and test models with Azure OpenAI Studio, then introduce them into your code to deliver a differentiated application experience with the enterprise-grade security of Azure. Models have the ability to provide natural language experience for applications, such as GPT-3 and Codex. Azure OpenAI also has the tools to support responsible AI, such as screening content to detect and mitigate harmful use. Models usually use text as an interactive mode. After creating prompts, you can directly perform zero/several training on the model. OpenAI can be used to create many new experiences, such as converting the entire interface of an application to natural language interaction, and can also use natural language commands in applications, such as operating Minecraft.
+  
+  
+  3. Exploring Chat GPT-3 via Microsoft Azure Open AI Studio
+    https://www.youtube.com/watch?v=tu7qZ8W-HEQ
+
+  This video shows how to explore the Chat GPT-3 service in Microsoft Azure Open AI Studio. Chat GPT-3 is an artificial intelligence-based chatbot that can generate human-like responses based on input text. Azure Open AI Studio provides three models: GPT3-based series, Codex series and embedded series. The GPT3 series can be used for dialogue models, generative models, text summarization and language prediction. To use this service, fill out the application form and wait for an email from Microsoft to confirm access. This article mainly introduces how to use Chat GPT-3 Playground in Azure Open AI Studio to try and test your own application.
