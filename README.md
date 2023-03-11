@@ -61,5 +61,25 @@ A:To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge,
 
 ### 文章(在搜尋的第一頁)
 #### <p><a href="https://towardsdatascience.com/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b" >Build custom-informed GPT-3-based chatbots for your website with very simple code</a></p>
+
+OpenAI 的 GPT-3 是一種專門用於語言處理的機器學習模型，可以使用簡單的 PHP 和 JavaScript 代碼將其整合到網頁中。
+GPT-3 是可定制的，可用於構建“了解”他們接受培訓的特定主題的聊天機器人。
+GPT-3 的臨時訓練可以使用“小樣本學習”方法完成，該方法涉及在提示中添加相關信息。
+教授 GPT-3 事實數據可以使其響應更加準確。
+PHP 庫可用於連接到 OpenAI 的 GPT-3 API，PHP 文件可用於與 JavaScript 代碼交互以運行 GPT-3
+
 #### <p><a href="https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626" >Build ChatGPT-like Chatbots With Customized Knowledge for Your Websites, Using Simple Programming</a></p>
+
+- GPT-3 是一種用於語言處理的機器學習模型，可以根據輸入輸出新文本。
+- GPT-3 是可定制的，可用於各種應用。
+- 可以使用 GPT-3 構建一個聊天機器人，該機器人經過特定主題的訓練，可以準確回答與該主題相關的問題。
+- 可以使用 PHP 和 JavaScript 將 GPT-3 集成到網頁中。
+- 需要一個允許 PHP 和 JavaScript 的服務器、一個來自 OpenAI 的 API 密鑰，以及一個連接到 GPT-3 的 PHP 庫，以便將 GPT-3 集成到網頁中。
+- GPT-3 可以通過少樣本學習進行訓練，這涉及使用相關信息擴展輸入提示，以教授模型關於特定主題的知識。
+
 #### <p><a href="https://openai.com/blog/customizing-gpt-3" >Customizing GPT-3 for your application</a></p>
+開發人員現在可以根據自己的數據自定義 GPT-3，以創建適合其應用程序需求的版本。
+微調 GPT-3 可提高其可靠性，減少錯誤和延遲，並使其更便宜、更快。
+自定義 GPT-3 只需要幾個示例，並且可以產生比使用提示設計更好的結果。
+GPT-3 的定製版本提高了多家公司的業績，例如 Keeper Tax、Viable、Sana Labs 和 Elicit。
+API 客戶可以按照微調文檔立即定制 GPT-3。
