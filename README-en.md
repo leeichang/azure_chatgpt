@@ -12,6 +12,7 @@ A: Reply on behalf of chtpgt!
 
 # How to
 Q: how to use azure OpenAi ChatGPT to training your self or company data,and create chat bot with your own domain knowledge 
+
 A: To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge, follow these steps:
 
   1.Sign up for an Azure account if you don't already have one.
