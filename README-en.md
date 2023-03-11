@@ -35,12 +35,12 @@ A: To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge
   9.Monitor and improve your chatbot. As your chatbot interacts with customers, you may receive feedback or identify areas for improvement. Continuously monitor and improve your chatbot to ensure it is providing the best possible experience for your customers.
   
   ## Google
-  found three youtube vedios
-    Use 『Glarity-Summary for Google/YouTube (ChatGPT) 』to generate a summary before deciding whether to watch the video content carefully
+
+  ### found three youtube vedios
+      Use 『Glarity-Summary for Google/YouTube (ChatGPT) 』to generate a summary before deciding whether to watch the video content carefully
     
     https://chrome.google.com/webstore/detail/glarity-summary-for-googl/cmnlolelipjlhfkhpohphpedmkfbobjc
-  #### found three youtube vedios
-  found three youtube vedios
+  
   1. Azure Open AI in Bot Framework 
   
     https://www.youtube.com/watch?v=1MqpdFGUYxc
