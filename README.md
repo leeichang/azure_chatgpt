@@ -9,7 +9,7 @@
 Ａ:代表chtpgt回复！
 
 # 如何做！
-##詢問chatgpt
+## 詢問chatgpt
 Q：如何使用azure OpenAi ChatGPT訓練自己或公司的數據，建立自己領域知識的聊天機器人
 A:To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge, follow these steps:
 
