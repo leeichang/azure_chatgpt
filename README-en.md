@@ -37,6 +37,7 @@ A: To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge
   ## Google
   found three youtube vedios
     Use 『Glarity-Summary for Google/YouTube (ChatGPT) 』to generate a summary before deciding whether to watch the video content carefully
+    
     https://chrome.google.com/webstore/detail/glarity-summary-for-googl/cmnlolelipjlhfkhpohphpedmkfbobjc
   #### found three youtube vedios
   found three youtube vedios
