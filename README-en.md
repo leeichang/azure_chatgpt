@@ -2,7 +2,7 @@
 
 I want to use chatgpt to help with software development! So there is a ditch thinking about this project! So how to import personal and company information into chatgpt to train your own chat robot to make the target of this process!
 
-All the content I ask chatgpt in English! and answer! I used chatgpt in Chinese to translate the Chinese version! The content I wrote is translated with google translate!
+All the content I ask chatgpt in English! and answer! I used chatgpt 『in Chinese』 to translate the Chinese version! The content I wrote is translated with google translate!
 
 All of the content of this Repositorie
 
