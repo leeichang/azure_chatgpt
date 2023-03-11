@@ -62,7 +62,5 @@ A: To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge
   This video shows how to explore the Chat GPT-3 service in Microsoft Azure Open AI Studio. Chat GPT-3 is an artificial intelligence-based chatbot that can generate human-like responses based on input text. Azure Open AI Studio provides three models: GPT3-based series, Codex series and embedded series. The GPT3 series can be used for dialogue models, generative models, text summarization and language prediction. To use this service, fill out the application form and wait for an email from Microsoft to confirm access. This article mainly introduces how to use Chat GPT-3 Playground in Azure Open AI Studio to try and test your own application.
 
 ### Articles
-#### Build custom-informed GPT-3-based chatbots for your website with very simple code
+#### <p><a href="https://towardsdatascience.com/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b" >Build custom-informed GPT-3-based chatbots for your website with very simple code</a></p>
 
-<p>This is <a href="http://example.com/" title="Title">
-an example</a> inline link.</p>
