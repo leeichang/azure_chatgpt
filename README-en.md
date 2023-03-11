@@ -63,4 +63,5 @@ A: To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge
 
 ### Articles(In the first search page)
 #### <p><a href="https://towardsdatascience.com/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b" >Build custom-informed GPT-3-based chatbots for your website with very simple code</a></p>
+#### <p><a href="https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626" >Build ChatGPT-like Chatbots With Customized Knowledge for Your Websites, Using Simple Programming</a></p>
 
