@@ -1,3 +1,5 @@
+[English Version](./README_en.md) ｜[中文版](./README.md)
+
 # azure_chatgpt
 
 我想用chatgpt來協助軟件開發！ 所以有這個項目的溝想！ 同時也使用如何將個人和公司信息導入chatgpt來訓練自己的聊天機器人來呈現這個過程！
