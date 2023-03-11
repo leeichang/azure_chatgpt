@@ -64,11 +64,11 @@ A: To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge
 ### Articles(In the first search page)
 #### <p><a href="https://towardsdatascience.com/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b" >Build custom-informed GPT-3-based chatbots for your website with very simple code</a></p>
 
-OpenAI's GPT-3, a machine learning model specialized in language processing, can be incorporated into web pages using simple PHP and JavaScript code.
-GPT-3 is customizable and can be used to build chatbots that "know" about specific topics that they are trained on.
-Ad hoc training of GPT-3 can be done using the "few-shot learning" method, which involves adding relevant information to the prompt.
-Teaching GPT-3 factual data can make it more accurate in its responses.
-A PHP library can be used to connect to OpenAI's GPT-3 API, and a PHP file can be used to interface with JavaScript code to run GPT-3
+- OpenAI's GPT-3, a machine learning model specialized in language processing, can be incorporated into web pages using simple PHP and JavaScript code.
+- GPT-3 is customizable and can be used to build chatbots that "know" about specific topics that they are trained on.
+- Ad hoc training of GPT-3 can be done using the "few-shot learning" method, which involves adding relevant information to the prompt.
+- Teaching GPT-3 factual data can make it more accurate in its responses.
+- A PHP library can be used to connect to OpenAI's GPT-3 API, and a PHP file can be used to interface with JavaScript code to run GPT-3
 
 
 #### <p><a href="https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626" >Build ChatGPT-like Chatbots With Customized Knowledge for Your Websites, Using Simple Programming</a></p>
@@ -80,9 +80,9 @@ A PHP library can be used to connect to OpenAI's GPT-3 API, and a PHP file can b
 - GPT-3 can be trained with few-shot learning, which involves expanding the input prompt with relevant information to teach the model about a particular topic.
 
 #### <p><a href="https://openai.com/blog/customizing-gpt-3" >Customizing GPT-3 for your application</a></p>
-Developers can now customize GPT-3 on their own data to create a version that suits their application's needs.
-Fine-tuning GPT-3 increases its reliability, reduces errors and latency, and makes it cheaper and faster.
-Customizing GPT-3 requires only a few examples and can yield even better results than using prompt design.
-Customized versions of GPT-3 have improved the performance of various companies, such as Keeper Tax, Viable, Sana Labs, and Elicit.
-API customers can customize GPT-3 immediately by following the fine-tuning documentation.
+- Developers can now customize GPT-3 on their own data to create a version that suits their application's needs.
+- Fine-tuning GPT-3 increases its reliability, reduces errors and latency, and makes it cheaper and faster.
+- Customizing GPT-3 requires only a few examples and can yield even better results than using prompt design.
+- Customized versions of GPT-3 have improved the performance of various companies, such as Keeper Tax, Viable, Sana Labs, and Elicit.
+- API customers can customize GPT-3 immediately by following the fine-tuning documentation.
 
