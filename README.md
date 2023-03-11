@@ -1,4 +1,4 @@
-[English Version](./README_en.md) ｜[中文版](./README.md)
+[English Version](./README-en.md) ｜[中文版](./README.md)
 
 # azure_chatgpt
 
