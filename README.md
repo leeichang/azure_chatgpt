@@ -59,3 +59,7 @@ A:To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge,
 
 本影片介紹了如何在Microsoft Azure Open AI Studio中探索Chat GPT-3服務。Chat GPT-3是一款基於人工智慧的聊天機器人，可以根據輸入的文本生成類似人類的回答。Azure Open AI Studio提供了GPT3基於系列，Codex系列和嵌入系列三種模型，GPT3系列可以用於對話模型，生成模型，文本摘要和語言預測等。欲使用此服務需填寫申請表格，並等待Microsoft的電子郵件確認訪問權限。本篇主要介紹如何在Azure Open AI Studio中使用Chat GPT-3 Playground來嘗試和測試自己的應用。
 
+### 文章(在搜尋的第一頁)
+#### <p><a href="https://towardsdatascience.com/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b" >Build custom-informed GPT-3-based chatbots for your website with very simple code</a></p>
+#### <p><a href="https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626" >Build ChatGPT-like Chatbots With Customized Knowledge for Your Websites, Using Simple Programming</a></p>
+#### <p><a href="https://openai.com/blog/customizing-gpt-3" >Customizing GPT-3 for your application</a></p>
