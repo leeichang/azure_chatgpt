@@ -4,8 +4,10 @@ I want to use chatgpt to help with software development! So there is a ditch thi
 
 All the content I ask chatgpt in English! and answer! I used chatgpt in Chinese to translate the Chinese version! The content I wrote is translated with google translate!
 
-All of the content of this Repositorie 
+All of the content of this Repositorie
+
 Q: Questions asked on behalf of me
+
 A: Reply on behalf of chtpgt!
 
 To use Azure OpenAI ChatGPT to train a chatbot with your own domain knowledge, follow these steps:
